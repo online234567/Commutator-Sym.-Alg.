@@ -12,3 +12,5 @@ When $d=2$ and $n=2$ the results coincide with the calculation results by hand.
 Computation Complexity:
 The $d=n=2$ is easy (for computer).
 When $d=n=3,$ 10 seconds might cost.
+
+
